@@ -15,4 +15,4 @@ you can find us [here](https://zindi.africa/hackathons/umojahack-3-hotspots/lead
 [Mimene Younes](https://github.com/younes38)  
 [Dokkar Redha](https://github.com/DokkarRachidReda)  
 [Amirouche Redha](https://github.com/am3redha)  
-Brihmouche Yacine
+[Brihmouche Yacine](https://github.com/Looklok)
