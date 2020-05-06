@@ -7,7 +7,9 @@ After reading the data and doing some data cleaning, data selection, adding new 
 
 ## Ranking
 with this solution we could obtain the 6th place out 624 participants.  
-you can find us [here](https://zindi.africa/hackathons/umojahack-3-hotspots/leaderboard) as a team neamed "OurTeam"
+you can find us [here](https://zindi.africa/hackathons/umojahack-3-hotspots/leaderboard) as a team neamed "OurTeam".  
+<br>
+![Final leaderboard](https://github.com/younes38/UmojaHack/blob/master/leaderboard.PNG)
 
 ## Team
 [Mimene Younes](https://github.com/younes38)  
